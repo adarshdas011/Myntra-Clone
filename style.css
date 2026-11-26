@@ -103,3 +103,16 @@ body {
     height: auto;
 }
 
+/* SECOND BANNER */
+
+.up2 {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.up2_a img {
+    width: 100%;
+    display: block;
+    height: auto;
+}
+
