@@ -116,3 +116,18 @@ body {
     height: auto;
 }
 
+/* CATEGORY HEADING */
+
+.up3 {
+    width: 100%;
+    padding: 45px 15px;
+    text-align: center;
+}
+
+.up3_a {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: #282c3f;
+}
+
