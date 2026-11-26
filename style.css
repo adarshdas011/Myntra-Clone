@@ -89,3 +89,17 @@ body {
     height: 23px;
     object-fit: contain;
 }
+
+/* FIRST BANNER */
+
+.up1 {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.up1_a img {
+    width: 100%;
+    display: block;
+    height: auto;
+}
+
