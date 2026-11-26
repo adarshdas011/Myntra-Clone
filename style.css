@@ -74,3 +74,18 @@ body {
     font-size: 14px;
 }
 
+.c {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    gap: 4px;
+}
+
+.c img {
+    width: 23px;
+    height: 23px;
+    object-fit: contain;
+}
